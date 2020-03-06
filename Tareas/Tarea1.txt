@@ -1,0 +1,7 @@
+Cuando se habla de un sistema de información (SI) se refiere a un conjunto ordenado de mecanismos que tienen como fin la administración de datos y de información, de manera que puedan ser recuperados y procesados fácil y rápidamente.
+Todo sistema de información se compone de una serie de recursos interconectados y en interacción, dispuestos del modo más conveniente en base al propósito informativo trazado, como puede ser recabar información personal, procesar estadísticas, organizar archivo, etc
+
+
+Tarea: 1 		Asignatura: Sistemas de Información 
+Nombre: Rios Cortes Juan Ulises		Numero de Cuenta:313183959 
+
