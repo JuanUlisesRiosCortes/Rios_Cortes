@@ -1,0 +1,46 @@
+.fondo{
+    background-color:#218165;
+}
+.tablaverde{
+    background-color: #24bb3d;
+    width: 100%;
+    height: auto;
+    border-spacing: 4px;
+
+}
+.col1verde{
+    border: 4px solid white;
+    background-color: #24bb3d;
+    width: 20%;
+}
+.col2verde{
+    border: 4px solid white;
+    background-color: #24bb3d;
+     width: 80%;
+    text-align: center;
+}
+.tablaroja{
+    background-color: #e00f0f;
+    width: 100%;
+    height: 450px;
+    border-spacing: 4px;
+
+}
+.col1roja{
+    border: 4px solid white;
+    background-color: #e00f0f;
+    width: 38%;
+}
+.col2roja{
+    border: 4px solid white;
+    background-color: #e00f0f;
+     width: 72%;
+    text-align: center;
+}
+.holamundo{
+    border: 4px solid white;
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+    height:auto;
+}
